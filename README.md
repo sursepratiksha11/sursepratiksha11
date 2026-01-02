@@ -38,59 +38,76 @@
 
 ## 🛠️ Tech Stack  <br><sub><sup>(Hover for tooltips!)</sup></sub>
 
+## ⚡ My Tech Universe
+
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=ts" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://react.dev/" title="React.js">
-    <img src="https://skillicons.dev/icons?i=react" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://nextjs.org/" title="Next.js">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://expressjs.com/" title="Express.js">
-    <img src="https://skillicons.dev/icons?i=express" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" title="MongoDB">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://www.mysql.com/" title="MySQL">
-    <img src="https://skillicons.dev/icons?i=mysql" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://vercel.com/" title="Vercel">
-    <img src="https://skillicons.dev/icons?i=vercel" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://aws.amazon.com/" title="AWS">
-    <img src="https://skillicons.dev/icons?i=aws" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://skillicons.dev/icons?i=docker" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://kubernetes.io/" title="Kubernetes">
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="120" style="margin:15px;"/>
-  </a>
-  <a href="https://www.figma.com/" title="Figma">
-    <img src="https://skillicons.dev/icons?i=figma" height="120" style="margin:15px;"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=header" width="100%"/>
 </p>
+
+
+
+### 🌐 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,html,css,sql" height="60" title="JavaScript, Java, C++, HTML5, CSS3, SQL"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=600&color=7C3AED&center=true&vCenter=true&width=600&lines=Dynamic+Languages;OOP+Concepts;Problem+Solving+Skills" />
+</p>
+
+---
+### 🎨 Frontend Playground
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js" height="60" title="React, Next.js, TypeScript, Tailwind"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2000&pause=600&color=7C3AED&center=true&vCenter=true&width=650&lines=Crafting+Modern+UI;Responsive+Design;Interactive+Web+Apps" />
+</p>
+
+---
+
+### ⚙ Backend Engine
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="60" title="Node.js, Express.js, MongoDB, MySQL"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2000&pause=600&color=7C3AED&center=true&vCenter=true&width=650&lines=REST+APIs;Database+Modeling;Authentication+%26+Authorization" />
+</p>
+
+---
+### ☁ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel" height="60" title="AWS, Docker, Kubernetes, Vercel"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2000&pause=600&color=7C3AED&center=true&vCenter=true&width=650&lines=Cloud+Deployments;CI%2FCD+Automation;Containerized+Apps" />
+</p>
+
+---
+
+### 🧰 Tools & IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,figma" height="50" title="Git, GitHub, VSCode, Visual Studio, IntelliJ, Figma"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=40&section=footer"/>
+</p>
+
+---
+### 📚 Concepts  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=REST+APIs;OOP+Concepts;CRUD+Operations;MVC+Architecture;Responsive+Web+Design;Authentication+%26+Authorization" />
+</p>
+
 
 ---
 
